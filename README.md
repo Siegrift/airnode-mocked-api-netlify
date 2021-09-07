@@ -21,4 +21,5 @@ Learn how to use serverless functions in less than 30 minutes!
 
 To enable ES syntax I followed: https://answers.netlify.com/t/lambda-function-es-module-support/30673/15
 
-To deploy, just git commit and push.
+To deploy, just git commit and push. Netlify will automatically deploy the new version.
+You can check it out in: https://app.netlify.com/
