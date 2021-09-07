@@ -1,0 +1,16 @@
+{
+  "name": "airnode-mocked-api-netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "repository": "git@github.com:Siegrift/airnode-mocked-api-netlify.git",
+  "author": "Emanuel Tesar <e.tesarr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "init": "netlify init",
+    "start": "netlify dev"
+  }
+}
